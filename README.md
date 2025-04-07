@@ -1,5 +1,5 @@
 # Smart-Attendance-System
-The GitHub repository you've shared, [Smart-Attendance-System](https://github.com/tarunmarskolhe14/Smart-Attendance-System/tree/main), appears to be a project aimed at automating attendance tracking using facial recognition technology. The repository contains several Python scripts and related files that facilitate this functionality.
+[Smart-Attendance-System](https://github.com/tarunmarskolhe14/Smart-Attendance-System/tree/main), appears to be a project aimed at automating attendance tracking using facial recognition technology. The repository contains several Python scripts and related files that facilitate this functionality.
 
 **Key components of the project include:**
 
