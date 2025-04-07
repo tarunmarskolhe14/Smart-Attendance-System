@@ -16,7 +16,3 @@
 - **`utils.py`**: Probably includes utility functions to support various operations within the system.
 
 The repository also features a `README.md` file, which typically provides an overview of the project, setup instructions, and usage guidelines. However, in this case, the README does not contain any information.
-
-Given that the repository lacks a detailed description and documentation, setting up and utilizing the system might require a thorough examination of the codebase. Familiarity with Python and experience in working with facial recognition libraries, such as OpenCV, would be beneficial.
-
-If you have specific questions about the implementation or need assistance with particular components of the project, feel free to ask! 
